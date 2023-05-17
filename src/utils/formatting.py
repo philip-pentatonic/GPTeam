@@ -37,9 +37,9 @@ def print_to_console(
 
 class AgentLogColor(Enum):
     GENERAL = Fore.WHITE
-    CALVIN = Fore.LIGHTCYAN_EX
-    REBECCA = Fore.YELLOW
-    MARTY = Fore.BLUE
+    ORION = Fore.LIGHTCYAN_EX
+    VEGA = Fore.YELLOW
+    SIRIUS = Fore.BLUE
     RICARDO = Fore.MAGENTA
     JACQUELIN = Fore.RED
     ERROR = Fore.RED
